@@ -85,7 +85,8 @@ Install dependencies:
 
 bash
 Copy
-npm install
+npm install @ramonak/react-progress-bar --legacy-peer-deps : Install this instead of npm i and directly then npm run dev
+
 Create a .env file and add the following environment variables:
 
 ini
